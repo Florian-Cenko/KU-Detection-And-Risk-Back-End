@@ -1,5 +1,13 @@
 # KU-Detection-And-Risk-Back-End
 
+## Fork-based Version with Code Enhancements
+
+This repository is a fork of the original **KU-Detection-And-Risk-Back-End** developed by the research team of Prof. [Όνομα Καθηγητή], extended during my undergraduate thesis.
+
+While the setup and deployment instructions remain the same, this version includes **code-level improvements**, particularly in the logic responsible for **selecting commits for analysis**. These changes aim to improve performance, accuracy, or flexibility when analyzing code history.
+
+> ℹ️ The project is otherwise based on the original architecture and retains full compatibility with the original database and API structure.
+
 ## Description
 
 This project implements the backend API for an application designed to detect "Knowledge Units" (KU). It is built with Flask (Python) and provides endpoints for:
