@@ -67,8 +67,7 @@ Follow the steps below to set up the backend locally on your machine.
 
 6.  **Database & Environment Setup:**
     *   Create a database in your PostgreSQL installation if one doesn't already exist.
-    *   Create a file named `.env` in the project's root directory.
-    *   Add the following environment variables to `.env`, replacing the values with your own details:
+    *   Change in folder api the file data_db.py 
         ```dotenv
         DB_HOST=localhost          # or your DB server address
         DB_PORT=5432               # or your DB server port
