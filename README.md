@@ -2,7 +2,7 @@
 
 ## Fork-based Version with Code Enhancements
 
-This repository is a fork of the original **KU-Detection-And-Risk-Back-End** developed by the research team of Prof. [Όνομα Καθηγητή], extended during my undergraduate thesis.
+This repository is a fork of the original **KU-Detection-And-Risk-Back-End** developed by the research team of Prof.Apostolos Ampatzoglou extended during my undergraduate thesis.
 
 While the setup and deployment instructions remain the same, this version includes **code-level improvements**, particularly in the logic responsible for **selecting commits for analysis**. These changes aim to improve performance, accuracy, or flexibility when analyzing code history.
 
