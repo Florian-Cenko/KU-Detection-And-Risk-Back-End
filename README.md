@@ -39,13 +39,13 @@ Follow the steps below to set up the backend locally on your machine.
     *   Open a terminal or command prompt.
     *   Clone *your* fork locally, replacing `<your-username>`:
         ```bash
-        git clone https://github.com/<your-username>/KU-Detection.git
+        git clone https://github.com/<your-username>/KU-Detection-And-Risk-Back-End.git
         ```
-        *(Note: The repository name in your fork might be `KU-Detection-Back-End` if you didn't change it during the fork, or `KU-Detection` if you did. Adjust the command accordingly.)*
+        *(Note: The repository name in your fork might be `KU-Detection-And-Risk-Back-End` if you didn't change it during the fork. Adjust the command accordingly.)*
 
 3.  **Navigate to the Project Directory:**
     ```bash
-    cd KU-Detection # or KU-Detection-Back-End, depending on the folder name
+    cd KU-Detection-And-Risk-Back-End, depending on the folder name
     ```
 
 4.  **Create and Activate a Virtual Environment (Recommended):**
