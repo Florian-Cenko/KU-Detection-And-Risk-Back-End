@@ -33,7 +33,6 @@ Follow the steps below to set up the backend locally on your machine.
 ### Contribution Steps
 
 1.  **Fork the Repository:**
-    *   Navigate to the [main repository](https://github.com/skillab-project/KU-Detection).
     *   Click the "Fork" button in the top-right corner to create a copy in your own GitHub account.
 
 2.  **Clone Your Fork:**
